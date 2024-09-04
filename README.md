@@ -23,6 +23,11 @@ Weather App is a simple web application designed to provide users with real-time
 2. To search for weather information for a different location, simply enter the desired location or city name in the search bar and press Enter.
 3. You can view the 5-day weather forecast by clicking on the "Forecast" tab.
 4. Enjoy exploring the weather conditions and forecasts for different locations!
+
+ #Output
+ 
+![image](https://github.com/user-attachments/assets/7f787ade-4329-48f0-b7c5-0fe5c0408e54)
+
  
  
- 
+
