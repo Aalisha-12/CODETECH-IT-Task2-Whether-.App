@@ -10,12 +10,9 @@
 - Introduction:
 Weather App is a simple web application designed to provide users with real-time weather information for a given location. It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing interface. The app fetches weather data from the WeatherAPI, which offers reliable and accurate weather forecasts.
 # Technologies Used
-- HTML5
--: Provides the basic structure of the website, defining the elements and content layout.
-- CSS3
-- : Handles the styling and layout of the website, ensuring it is visually appealing and responsive. Flexbox and media queries are used for the responsive design
-- JavaScript
-- : Manages the interactive aspects of the website, including adding, editing, deleting, and marking tasks as complete. JavaScript is also used to handle the persistence of task data in the browser's localStorage.
+- HTML5: Provides the basic structure of the website, defining the elements and content layout.
+- CSS3 : Handles the styling and layout of the website, ensuring it is visually appealing and responsive. Flexbox and media queries are used for the responsive design
+- JavaScript : Manages the interactive aspects of the website, including adding, editing, deleting, and marking tasks as complete. JavaScript is also used to handle the persistence of task data in the browser's localStorage.
 - WeatherAPI
 ## Features
 - **Current Weather Display:** Provides current weather conditions including temperature, humidity, wind speed, and weather description.
